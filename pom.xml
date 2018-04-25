@@ -40,16 +40,16 @@
   
 <distributionManagement>
     <repository>
-        <id>rajesh</id>
-        <name>rajesh-releases</name>
-        <url>http://13.232.2.248:8080/artifactory/rajesh</url>
+        <id>deployment</id>
+        <name>mph</name>
+        <url>http://13.126.139.64:8087/repository/mph/</url>
     </repository>
     <snapshotRepository>
-        <id>rajesh</id>
-        <name>rajesh-snapshots</name>
-        <url>http://13.232.2.248:8080/artifactory/rajesh</url>
+        <id>deployment</id>
+        <name>mphsnap</name>
+        <url>http://13.126.139.64:8087/repository/mphsnap/</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement
 
 
 
