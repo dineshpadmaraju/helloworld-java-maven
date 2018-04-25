@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>2.0.0</version>
+  <version>3.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -49,7 +49,7 @@
         <name>mphsnap</name>
         <url>http://13.126.139.64:8087/repository/mphsnap/</url>
     </snapshotRepository>
-</distributionManagement
+</distributionManagement>
 
 
 
