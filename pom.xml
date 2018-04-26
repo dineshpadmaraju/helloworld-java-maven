@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>4.0.0</version>
+  <version>4.1.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -41,13 +41,13 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>mph</name>
-        <url>http://13.126.139.64:8087/repository/mph/</url>
+        <name>Tonexus</name>
+        <url>http://localhost:8081/repository/Tonexus/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>mphsnap</name>
-        <url>http://13.126.139.64:8087/repository/mphsnap/</url>
+        <name>Tonexussnap</name>
+        <url>http://localhost:8081/repository/Tonexussnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
